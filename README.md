@@ -7,7 +7,7 @@ A data scientist who wants to share his learning with all that are interested, e
 I have a Master's Degree in Computing&Applied Mathematics from INPE ( Brazil's National Space Research Center), a well known research institute.
 
 **Background in:** Python, Machine Learning, Deep Learning, Bad Jokes and Brazilian Barbecues.
-<p></p>
+
 **Interested in:** Artificial Intelligence, Full Stack Web Development, Combinatorial Optimization and a few things more!
 
 ## Projects:
