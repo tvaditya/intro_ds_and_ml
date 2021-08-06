@@ -11,7 +11,7 @@ I have a Master's Degree in Computing&Applied Mathematics from INPE ( Brazil's N
 **Interested in:** Artificial Intelligence, Full Stack Web Development, Combinatorial Optimization and a few things more!
 
 ## Projetos:
-* **Analisando dados do AirBnB:** https://bit.ly/2L2cMwy
+* **Analisando dados do AirBnB:** https://github.com/tvaditya/intro_ds_and_ml/blob/main/%5BT_V_aditya%5D_Analisando_os_Dados_do_Airbnb.ipynb
 
 ## More about me
 * [LinkedIn](https://www.linkedin.com/in/tantravahiadityamscpmp)
